@@ -1,0 +1,7 @@
+[
+  { "titulo": "Repasar JS", "estado": "terminada" },
+  { "titulo": "Repasar Python", "estado": "pendiente" },
+  { "titulo": "Repasar C++", "estado": "en progreso" },
+  { "titulo": "Ordenar cuarto", "estado": "en progreso" },
+  { "titulo": "Revisar Playground", "estado": "en progreso" }
+]
